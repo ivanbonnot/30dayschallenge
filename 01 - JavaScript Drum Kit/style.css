@@ -30,10 +30,13 @@ html {
   border-radius: 5px;
   margin: 1rem;
   padding: 1rem 0.5rem;
+  transition: all 0.1s ease 0s;
+  background: rgb(0, 0, 0, 0.4);
+  cursor: pointer;
 }
 
 .key kbd {
-  font-size: 26px;
+  font-size: 4rem;
   color: white;
 }
 
