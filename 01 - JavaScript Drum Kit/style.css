@@ -48,5 +48,5 @@ html {
 
 .active {
   background: rgb(0, 0, 0, 1);
-  border: 1rem solid black;
+  transform: scale(1.1);
 }
